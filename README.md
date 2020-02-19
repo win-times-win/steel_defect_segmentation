@@ -9,6 +9,7 @@ Analyzes existing customer data, generates and visualizes new customer shopping 
 
 ## Data Source
 https://www.kaggle.com/c/severstal-steel-defect-detection/data
+Dataset owner: PAO Severstal (https://www.severstal.com/)
 
 ## References
 - Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image Segmentation" arXiv:1505.04597 [cs.CV]
