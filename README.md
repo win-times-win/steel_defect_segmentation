@@ -3,8 +3,8 @@ Analyzes existing customer data, generates and visualizes new customer shopping 
 
 [Link to presentation](presentation.pdf)
 
-[](screenshot1.png)
-[](screenshot2.png)
+![](screenshot1.png)
+![](screenshot2.png)
 
 
 ## Main Components
