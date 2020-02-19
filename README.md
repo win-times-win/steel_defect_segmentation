@@ -1,5 +1,5 @@
 # Steel Defect Segmentation
-Analyzes existing customer data, generates and visualizes new customer shopping behaviour.
+Segmentation of steel defects using U-Net with a Resnet34 backbone, supported by a custom data generator.
 
 [Link to presentation](presentation.pdf)
 
