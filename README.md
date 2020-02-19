@@ -1,7 +1,7 @@
 # Steel Defect Segmentation
 Analyzes existing customer data, generates and visualizes new customer shopping behaviour.
 
-[Link to presentation:](presentation.pdf)
+[Link to presentation](presentation.pdf)
 
 ## Main Components
 - supermarket_analysis_processing.py:
