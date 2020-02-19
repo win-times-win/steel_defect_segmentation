@@ -8,7 +8,7 @@ Analyzes existing customer data, generates and visualizes new customer shopping 
 ![](screenshot2.png)
 
 ## Data Source
-https://www.kaggle.com/c/severstal-steel-defect-detection/data
+https://www.kaggle.com/c/severstal-steel-defect-detection/data /n
 Dataset owner: PAO Severstal (https://www.severstal.com/)
 
 ## References
